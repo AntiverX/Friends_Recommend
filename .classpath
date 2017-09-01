@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Antiver/Desktop/MapReduce/odps-sdk-commons-0.27.2-public.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Antiver/Desktop/MapReduce/odps-sdk-core-0.27.2-public.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Antiver/Desktop/MapReduce/odps-sdk-mapred-0.27.2-public.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
